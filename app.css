@@ -1,0 +1,10 @@
+header {
+    margin: 2rem;
+    background-color: yellow;
+    display: flex;
+    justify-content: space-between;
+}
+
+h1 {
+    margin: 0;
+}
